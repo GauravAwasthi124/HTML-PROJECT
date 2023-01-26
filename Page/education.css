@@ -1,0 +1,72 @@
+
+        *{
+            padding: 0px;
+            margin: 0px;
+            box-sizing: border-box;
+           
+        } 
+        .head{
+            text-align: center;
+            background-color: rgb(28, 35, 28);
+            font-size: 20px;
+            color: yellow;
+            padding: 15px;
+        }
+        nav{
+            text-align: center;
+            background-color: goldenrod;
+            font-size: 20px;
+            /* padding-top: 5px;
+            padding-bottom: 5px;
+            margin-right: 5px; */
+            padding: 10px;
+            display: flex;
+            justify-content: space-evenly;
+        }
+        a{
+            font-size: 25px;
+            color: rgb(0, 85, 175);
+            font-weight: bolder;
+            text-decoration: none;
+            padding: 1rem;
+            margin: 3rem;
+            background-color: yellowgreen;
+            /* height: 5%; */
+            border-radius: 3rem;
+            /* display: flex; */
+            width: 50%;
+            justify-content: space-evenly;
+            
+        }
+       .first{
+        padding: 15px;
+        text-align: center;
+        background-color: rgba(2, 203, 238, 0.591);
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px;
+       }
+       .table{
+        margin-left: 525px;
+       }
+       .h3{
+        padding: 20px;
+        text-align: center;
+        background-color: darkslateblue;
+        font-size: 30px;
+       }
+       p{
+        text-align: center;
+        font-size: 20px;
+        font-style: oblique;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: blueviolet;
+        background-color: rgba(9, 194, 71, 0.157);
+       }
+      
+      .bottom{
+        text-align: center;
+        padding: 30px;
+        background-color: black;
+        color: brown;
+        font-size: 20px;
+      } 
